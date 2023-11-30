@@ -7,22 +7,23 @@ using static UnityEngine.RuleTile.TilingRuleOutput;
 public class ChaseState : IState
 {
     ZombieScript zs;
+    float timerLimit;
     float timer;
     int dirCheck;
     int select;
-    bool move;
     public void OnEnterState(ZombieScript stateMachine)
     {
         zs = stateMachine;
         timer = 0;
+        timerLimit = Random.Range(6f, 10f);
         select = 0;
         zs.ChangeAnim("ChaseAnimation");
         Debug.Log("Entered Chase State");
-        if (zs.transform.position.x > zs.playerPos.position.x)
+        if (zs.transform.position.x > zs.playerPos.transform.position.x)
         {
             dirCheck = 1;
         }
-        else if(zs.transform.position.x < zs.playerPos.position.x)
+        else if(zs.transform.position.x < zs.playerPos.transform.position.x)
         {
             dirCheck = 0;
         }
@@ -55,11 +56,11 @@ public class ChaseState : IState
     }
     void Chase()
     {
-        if(timer != 8f || timer >= 8f)
+        if(timer != timerLimit || timer >= timerLimit)
         {
             timer += Time.deltaTime;
         }
-        if(timer >= 8)
+        if(timer >= timerLimit)
         {
             select = 1;
         }

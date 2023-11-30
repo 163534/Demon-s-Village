@@ -18,7 +18,7 @@ public class ZombieScript : MonoBehaviour
 
 
     [SerializeField]
-    public Transform playerPos;
+    public GameObject playerPos;
     public Rigidbody2D rb;
     public Animator anim;
     private string currentStates;
@@ -28,6 +28,8 @@ public class ZombieScript : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        playerPos = GameObject.FindGameObjectWithTag("Player");
+        
         ChangeState(spawnState);
     }
 
