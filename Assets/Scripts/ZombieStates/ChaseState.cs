@@ -9,10 +9,13 @@ public class ChaseState : IState
     ZombieScript zs;
     float timer;
     int dirCheck;
+    int select;
+    bool move;
     public void OnEnterState(ZombieScript stateMachine)
     {
         zs = stateMachine;
         timer = 0;
+        select = 0;
         zs.ChangeAnim("ChaseAnimation");
         Debug.Log("Entered Chase State");
         if (zs.transform.position.x > zs.playerPos.position.x)
@@ -29,7 +32,18 @@ public class ChaseState : IState
     // Start is called before the first frame update
     public void UpdateState()
     {
-        Chase();
+        switch (select)
+        {
+            case 0:
+                Chase();
+                break;
+            case 1:
+                Despawn();
+                break;
+
+        }
+
+        
     }
     public void FixedUpdateState()
     {
@@ -41,16 +55,13 @@ public class ChaseState : IState
     }
     void Chase()
     {
-        
-        
         if(timer != 8f || timer >= 8f)
         {
             timer += Time.deltaTime;
         }
         if(timer >= 8)
         {
-            Debug.Log("Death");
-            zs.Death();
+            select = 1;
         }
         Debug.Log(timer);
 
@@ -67,8 +78,14 @@ public class ChaseState : IState
             zs.rb.velocity = new Vector2(0.5f, zs.rb.velocity.y);
             zs.transform.localScale = new Vector2(-1f, zs.transform.localScale.y);
         }
-
+    }
+    void Despawn()
+    {
         
+            Debug.Log("Death");
+
+            zs.rb.velocity = new Vector2(0f, zs.rb.velocity.y);
+            zs.ChangeAnim("DespawnAnimation");
         
     }
 }
