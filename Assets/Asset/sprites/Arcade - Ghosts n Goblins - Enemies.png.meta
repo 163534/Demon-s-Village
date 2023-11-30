@@ -686,12 +686,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_0
       rect:
         serializedVersion: 2
-        x: 236
-        y: 540
-        width: 23
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 241
+        y: 575
+        width: 17
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -707,12 +707,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_1
       rect:
         serializedVersion: 2
-        x: 240
-        y: 574
-        width: 19
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 575
+        width: 17
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -728,12 +728,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_2
       rect:
         serializedVersion: 2
-        x: 259
-        y: 574
-        width: 19
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 181
+        y: 541
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -749,12 +749,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_3
       rect:
         serializedVersion: 2
-        x: 259
-        y: 540
-        width: 23
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 194
+        y: 541
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -770,12 +770,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_4
       rect:
         serializedVersion: 2
-        x: 180
-        y: 540
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 216
+        y: 541
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -791,12 +791,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_5
       rect:
         serializedVersion: 2
-        x: 193
-        y: 540
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 237
+        y: 541
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -812,12 +812,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_6
       rect:
         serializedVersion: 2
-        x: 215
-        y: 540
-        width: 20
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 541
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -833,12 +833,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_7
       rect:
         serializedVersion: 2
-        x: 283
-        y: 540
-        width: 20
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 284
+        y: 541
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -854,12 +854,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_8
       rect:
         serializedVersion: 2
-        x: 305
-        y: 540
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 306
+        y: 541
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -875,12 +875,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_9
       rect:
         serializedVersion: 2
-        x: 326
-        y: 540
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 327
+        y: 541
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -896,12 +896,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_10
       rect:
         serializedVersion: 2
-        x: 117
-        y: 505
-        width: 18
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 118
+        y: 506
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -917,12 +917,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_11
       rect:
         serializedVersion: 2
-        x: 138
-        y: 505
-        width: 27
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 139
+        y: 506
+        width: 25
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -938,12 +938,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_12
       rect:
         serializedVersion: 2
-        x: 167
-        y: 505
-        width: 21
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 168
+        y: 506
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -959,12 +959,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_13
       rect:
         serializedVersion: 2
-        x: 190
-        y: 505
-        width: 24
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 191
+        y: 506
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -980,12 +980,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_14
       rect:
         serializedVersion: 2
-        x: 215
-        y: 505
-        width: 21
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 216
+        y: 506
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1001,12 +1001,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_15
       rect:
         serializedVersion: 2
-        x: 236
-        y: 505
-        width: 23
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 237
+        y: 506
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1022,12 +1022,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_16
       rect:
         serializedVersion: 2
-        x: 259
-        y: 505
-        width: 23
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 506
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1043,12 +1043,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_17
       rect:
         serializedVersion: 2
-        x: 282
-        y: 505
-        width: 21
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 283
+        y: 506
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1064,12 +1064,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_18
       rect:
         serializedVersion: 2
-        x: 304
-        y: 505
-        width: 24
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 305
+        y: 506
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1085,12 +1085,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_19
       rect:
         serializedVersion: 2
-        x: 330
-        y: 505
-        width: 21
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 331
+        y: 506
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1106,12 +1106,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_20
       rect:
         serializedVersion: 2
-        x: 353
-        y: 505
-        width: 27
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 354
+        y: 506
+        width: 25
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1127,12 +1127,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_21
       rect:
         serializedVersion: 2
-        x: 383
-        y: 505
-        width: 18
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 506
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1148,12 +1148,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_22
       rect:
         serializedVersion: 2
-        x: 117
-        y: 486
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 118
+        y: 487
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1169,12 +1169,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_23
       rect:
         serializedVersion: 2
-        x: 133
-        y: 486
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 134
+        y: 487
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1190,12 +1190,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_24
       rect:
         serializedVersion: 2
-        x: 151
-        y: 486
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 152
+        y: 487
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1211,12 +1211,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_25
       rect:
         serializedVersion: 2
-        x: 169
-        y: 486
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 170
+        y: 487
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1232,12 +1232,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_26
       rect:
         serializedVersion: 2
-        x: 187
-        y: 486
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 188
+        y: 487
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1253,12 +1253,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_27
       rect:
         serializedVersion: 2
-        x: 205
-        y: 489
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 206
+        y: 490
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1274,12 +1274,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_28
       rect:
         serializedVersion: 2
-        x: 223
-        y: 490
-        width: 18
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 224
+        y: 491
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1295,12 +1295,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_29
       rect:
         serializedVersion: 2
-        x: 241
-        y: 486
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 242
+        y: 487
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1316,12 +1316,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_30
       rect:
         serializedVersion: 2
-        x: 259
-        y: 486
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 487
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1337,12 +1337,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_31
       rect:
         serializedVersion: 2
-        x: 277
-        y: 490
-        width: 18
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 491
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1358,12 +1358,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_32
       rect:
         serializedVersion: 2
-        x: 295
-        y: 489
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 296
+        y: 490
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1379,12 +1379,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_33
       rect:
         serializedVersion: 2
-        x: 313
-        y: 486
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 314
+        y: 487
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1400,12 +1400,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_34
       rect:
         serializedVersion: 2
-        x: 331
-        y: 486
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 332
+        y: 487
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1421,12 +1421,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_35
       rect:
         serializedVersion: 2
-        x: 349
-        y: 486
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 350
+        y: 487
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1442,12 +1442,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_36
       rect:
         serializedVersion: 2
-        x: 367
-        y: 486
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 368
+        y: 487
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1463,12 +1463,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_37
       rect:
         serializedVersion: 2
-        x: 385
-        y: 486
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 386
+        y: 487
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1484,12 +1484,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_38
       rect:
         serializedVersion: 2
-        x: 118
-        y: 466
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 119
+        y: 467
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1505,12 +1505,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_39
       rect:
         serializedVersion: 2
-        x: 133
-        y: 466
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 134
+        y: 467
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1526,12 +1526,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_40
       rect:
         serializedVersion: 2
-        x: 151
-        y: 466
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 152
+        y: 467
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1547,12 +1547,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_41
       rect:
         serializedVersion: 2
-        x: 169
-        y: 466
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 170
+        y: 467
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1568,12 +1568,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_42
       rect:
         serializedVersion: 2
-        x: 187
-        y: 466
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 188
+        y: 467
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1589,12 +1589,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_43
       rect:
         serializedVersion: 2
-        x: 205
-        y: 469
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 206
+        y: 470
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1610,12 +1610,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_44
       rect:
         serializedVersion: 2
-        x: 223
-        y: 470
-        width: 18
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 224
+        y: 471
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1631,12 +1631,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_45
       rect:
         serializedVersion: 2
-        x: 241
-        y: 466
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 242
+        y: 467
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1652,12 +1652,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_46
       rect:
         serializedVersion: 2
-        x: 259
-        y: 466
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 467
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1673,12 +1673,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_47
       rect:
         serializedVersion: 2
-        x: 277
-        y: 470
-        width: 18
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 471
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1694,12 +1694,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_48
       rect:
         serializedVersion: 2
-        x: 295
-        y: 469
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 296
+        y: 470
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1715,12 +1715,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_49
       rect:
         serializedVersion: 2
-        x: 313
-        y: 466
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 314
+        y: 467
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1736,12 +1736,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_50
       rect:
         serializedVersion: 2
-        x: 331
-        y: 466
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 332
+        y: 467
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1757,12 +1757,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_51
       rect:
         serializedVersion: 2
-        x: 349
-        y: 466
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 350
+        y: 467
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1778,12 +1778,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_52
       rect:
         serializedVersion: 2
-        x: 367
-        y: 466
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 368
+        y: 467
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1799,12 +1799,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_53
       rect:
         serializedVersion: 2
-        x: 385
-        y: 466
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 386
+        y: 467
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1820,12 +1820,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_54
       rect:
         serializedVersion: 2
-        x: 130
-        y: 431
-        width: 33
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 131
+        y: 432
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1841,12 +1841,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_55
       rect:
         serializedVersion: 2
-        x: 165
-        y: 432
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 166
+        y: 433
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1862,12 +1862,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_56
       rect:
         serializedVersion: 2
-        x: 197
-        y: 431
-        width: 29
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 198
+        y: 432
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1883,12 +1883,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_57
       rect:
         serializedVersion: 2
-        x: 224
-        y: 431
-        width: 35
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 225
+        y: 432
+        width: 33
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1904,12 +1904,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_58
       rect:
         serializedVersion: 2
-        x: 259
-        y: 431
-        width: 35
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 432
+        width: 33
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1925,12 +1925,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_59
       rect:
         serializedVersion: 2
-        x: 292
-        y: 431
-        width: 29
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 293
+        y: 432
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1946,12 +1946,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_60
       rect:
         serializedVersion: 2
-        x: 324
-        y: 432
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 325
+        y: 433
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1967,12 +1967,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_61
       rect:
         serializedVersion: 2
-        x: 355
-        y: 431
-        width: 33
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 356
+        y: 432
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1988,12 +1988,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_62
       rect:
         serializedVersion: 2
-        x: 165
-        y: 397
-        width: 32
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 166
+        y: 398
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2009,12 +2009,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_63
       rect:
         serializedVersion: 2
-        x: 198
-        y: 397
-        width: 33
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 199
+        y: 398
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2030,12 +2030,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_64
       rect:
         serializedVersion: 2
-        x: 205
-        y: 363
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 232
+        y: 398
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2051,12 +2051,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_65
       rect:
         serializedVersion: 2
-        x: 223
-        y: 363
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 398
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2072,12 +2072,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_66
       rect:
         serializedVersion: 2
-        x: 231
-        y: 397
-        width: 28
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 288
+        y: 398
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2093,12 +2093,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_67
       rect:
         serializedVersion: 2
-        x: 241
-        y: 363
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 322
+        y: 398
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2114,12 +2114,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_68
       rect:
         serializedVersion: 2
-        x: 259
-        y: 397
-        width: 28
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 170
+        y: 364
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2135,12 +2135,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_69
       rect:
         serializedVersion: 2
-        x: 259
-        y: 363
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 188
+        y: 364
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2156,12 +2156,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_70
       rect:
         serializedVersion: 2
-        x: 277
-        y: 363
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 206
+        y: 364
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2177,12 +2177,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_71
       rect:
         serializedVersion: 2
-        x: 287
-        y: 397
-        width: 33
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 224
+        y: 364
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2198,12 +2198,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_72
       rect:
         serializedVersion: 2
-        x: 295
-        y: 363
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 242
+        y: 364
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2219,12 +2219,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_73
       rect:
         serializedVersion: 2
-        x: 321
-        y: 397
-        width: 32
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 364
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2240,12 +2240,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_74
       rect:
         serializedVersion: 2
-        x: 167
-        y: 334
-        width: 27
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 364
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2261,12 +2261,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_75
       rect:
         serializedVersion: 2
-        x: 169
-        y: 363
-        width: 18
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 296
+        y: 364
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2282,12 +2282,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_76
       rect:
         serializedVersion: 2
-        x: 187
-        y: 363
-        width: 18
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 314
+        y: 364
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2303,12 +2303,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_77
       rect:
         serializedVersion: 2
-        x: 199
-        y: 334
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 332
+        y: 364
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2324,12 +2324,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_78
       rect:
         serializedVersion: 2
-        x: 231
-        y: 334
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 138
+        y: 335
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2345,12 +2345,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_79
       rect:
         serializedVersion: 2
-        x: 259
-        y: 334
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 168
+        y: 335
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2366,12 +2366,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_80
       rect:
         serializedVersion: 2
-        x: 291
-        y: 334
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 200
+        y: 335
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2387,12 +2387,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_81
       rect:
         serializedVersion: 2
-        x: 313
-        y: 363
-        width: 18
+        x: 232
+        y: 335
+        width: 26
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2408,12 +2408,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_82
       rect:
         serializedVersion: 2
-        x: 324
-        y: 334
-        width: 27
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 335
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2429,12 +2429,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_83
       rect:
         serializedVersion: 2
-        x: 331
-        y: 363
-        width: 18
+        x: 292
+        y: 335
+        width: 26
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2450,12 +2450,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_84
       rect:
         serializedVersion: 2
-        x: 137
-        y: 334
+        x: 325
+        y: 335
         width: 25
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2471,12 +2471,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_85
       rect:
         serializedVersion: 2
-        x: 166
-        y: 300
-        width: 30
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 357
+        y: 335
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2492,12 +2492,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_86
       rect:
         serializedVersion: 2
-        x: 197
-        y: 300
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 167
+        y: 301
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2513,12 +2513,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_87
       rect:
         serializedVersion: 2
-        x: 230
-        y: 300
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 198
+        y: 301
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2534,12 +2534,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_88
       rect:
         serializedVersion: 2
-        x: 259
-        y: 300
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 231
+        y: 301
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2555,12 +2555,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_89
       rect:
         serializedVersion: 2
-        x: 292
-        y: 300
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 301
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2576,12 +2576,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_90
       rect:
         serializedVersion: 2
-        x: 322
-        y: 300
-        width: 30
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 293
+        y: 301
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2597,12 +2597,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_91
       rect:
         serializedVersion: 2
-        x: 356
-        y: 334
-        width: 25
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 323
+        y: 301
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2618,12 +2618,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_92
       rect:
         serializedVersion: 2
-        x: 138
-        y: 267
-        width: 43
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 139
+        y: 268
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2639,12 +2639,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_93
       rect:
         serializedVersion: 2
-        x: 187
-        y: 267
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 188
+        y: 268
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2660,12 +2660,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_94
       rect:
         serializedVersion: 2
-        x: 232
-        y: 268
-        width: 27
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 233
+        y: 269
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2681,12 +2681,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_95
       rect:
         serializedVersion: 2
-        x: 259
-        y: 268
-        width: 27
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 269
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2702,12 +2702,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_96
       rect:
         serializedVersion: 2
-        x: 296
-        y: 267
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 297
+        y: 268
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2723,12 +2723,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_97
       rect:
         serializedVersion: 2
-        x: 337
-        y: 267
-        width: 43
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 338
+        y: 268
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2744,12 +2744,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_98
       rect:
         serializedVersion: 2
-        x: 167
-        y: 236
-        width: 35
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 168
+        y: 237
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2765,12 +2765,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_99
       rect:
         serializedVersion: 2
-        x: 213
-        y: 236
-        width: 46
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 214
+        y: 237
+        width: 44
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2786,12 +2786,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_100
       rect:
         serializedVersion: 2
-        x: 236
-        y: 219
-        width: 23
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 237
+        width: 44
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2807,12 +2807,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_101
       rect:
         serializedVersion: 2
-        x: 259
-        y: 236
-        width: 46
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 317
+        y: 237
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2828,12 +2828,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_102
       rect:
         serializedVersion: 2
-        x: 259
+        x: 143
         y: 219
-        width: 23
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2849,12 +2849,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_103
       rect:
         serializedVersion: 2
-        x: 316
-        y: 236
-        width: 35
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 178
+        y: 218
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2870,12 +2870,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_104
       rect:
         serializedVersion: 2
-        x: 142
-        y: 218
-        width: 34
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 208
+        y: 219
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2891,12 +2891,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_105
       rect:
         serializedVersion: 2
-        x: 177
-        y: 217
-        width: 25
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 237
+        y: 220
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2912,12 +2912,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_106
       rect:
         serializedVersion: 2
-        x: 207
-        y: 218
-        width: 29
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 220
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2933,12 +2933,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_107
       rect:
         serializedVersion: 2
-        x: 282
-        y: 218
-        width: 29
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 283
+        y: 219
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2954,12 +2954,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_108
       rect:
         serializedVersion: 2
-        x: 316
-        y: 217
-        width: 25
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 317
+        y: 218
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2975,12 +2975,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_109
       rect:
         serializedVersion: 2
-        x: 342
-        y: 218
-        width: 34
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 343
+        y: 219
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2996,12 +2996,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_110
       rect:
         serializedVersion: 2
-        x: 161
-        y: 198
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 162
+        y: 199
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3017,12 +3017,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_111
       rect:
         serializedVersion: 2
-        x: 178
-        y: 198
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 179
+        y: 199
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3038,12 +3038,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_112
       rect:
         serializedVersion: 2
-        x: 194
-        y: 198
-        width: 33
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 195
+        y: 199
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3059,12 +3059,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_113
       rect:
         serializedVersion: 2
-        x: 205
-        y: 152
-        width: 18
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 227
+        y: 199
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3080,12 +3080,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_114
       rect:
         serializedVersion: 2
-        x: 223
-        y: 152
-        width: 18
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 243
+        y: 199
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3101,12 +3101,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_115
       rect:
         serializedVersion: 2
-        x: 226
-        y: 198
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 199
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3122,12 +3122,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_116
       rect:
         serializedVersion: 2
-        x: 241
-        y: 152
-        width: 18
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 276
+        y: 199
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3143,12 +3143,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_117
       rect:
         serializedVersion: 2
-        x: 242
-        y: 198
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 292
+        y: 199
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3164,12 +3164,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_118
       rect:
         serializedVersion: 2
-        x: 259
-        y: 198
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 324
+        y: 199
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3185,12 +3185,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_119
       rect:
         serializedVersion: 2
-        x: 259
-        y: 152
-        width: 18
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 340
+        y: 199
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3206,12 +3206,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_120
       rect:
         serializedVersion: 2
-        x: 275
-        y: 198
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 206
+        y: 153
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3227,12 +3227,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_121
       rect:
         serializedVersion: 2
-        x: 277
-        y: 152
-        width: 18
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 224
+        y: 153
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3248,12 +3248,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_122
       rect:
         serializedVersion: 2
-        x: 291
-        y: 198
-        width: 33
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 242
+        y: 153
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3269,12 +3269,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_123
       rect:
         serializedVersion: 2
-        x: 295
-        y: 152
-        width: 18
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 153
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3290,12 +3290,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_124
       rect:
         serializedVersion: 2
-        x: 323
-        y: 198
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 153
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3311,12 +3311,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_125
       rect:
         serializedVersion: 2
-        x: 339
-        y: 198
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 296
+        y: 153
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3332,12 +3332,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_126
       rect:
         serializedVersion: 2
-        x: 161
-        y: 134
-        width: 33
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 162
+        y: 135
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3353,12 +3353,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_127
       rect:
         serializedVersion: 2
-        x: 194
-        y: 134
-        width: 34
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 195
+        y: 135
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3374,12 +3374,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_128
       rect:
         serializedVersion: 2
-        x: 228
-        y: 134
-        width: 31
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 229
+        y: 135
+        width: 29
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3395,12 +3395,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_129
       rect:
         serializedVersion: 2
-        x: 234
-        y: 127
-        width: 25
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 135
+        width: 29
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3416,12 +3416,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_130
       rect:
         serializedVersion: 2
-        x: 259
-        y: 134
-        width: 31
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 291
+        y: 135
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3437,12 +3437,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_131
       rect:
         serializedVersion: 2
-        x: 259
-        y: 127
-        width: 25
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 325
+        y: 135
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3458,12 +3458,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_132
       rect:
         serializedVersion: 2
-        x: 290
-        y: 134
-        width: 34
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 235
+        y: 128
+        width: 23
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3479,12 +3479,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_133
       rect:
         serializedVersion: 2
-        x: 324
-        y: 134
-        width: 33
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 128
+        width: 23
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3500,12 +3500,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_134
       rect:
         serializedVersion: 2
-        x: 177
-        y: 88
-        width: 7
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 178
+        y: 89
+        width: 5
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3521,12 +3521,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_135
       rect:
         serializedVersion: 2
-        x: 201
-        y: 107
-        width: 27
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 202
+        y: 108
+        width: 25
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3542,12 +3542,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_136
       rect:
         serializedVersion: 2
-        x: 236
-        y: 107
-        width: 23
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 237
+        y: 108
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3563,12 +3563,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_137
       rect:
         serializedVersion: 2
-        x: 259
-        y: 107
-        width: 23
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 108
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3584,12 +3584,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_138
       rect:
         serializedVersion: 2
-        x: 290
-        y: 107
-        width: 27
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 291
+        y: 108
+        width: 25
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3605,12 +3605,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_139
       rect:
         serializedVersion: 2
-        x: 334
-        y: 88
-        width: 7
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 335
+        y: 89
+        width: 5
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3626,12 +3626,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_140
       rect:
         serializedVersion: 2
-        x: 185
-        y: 88
-        width: 25
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 186
+        y: 89
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3647,12 +3647,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_141
       rect:
         serializedVersion: 2
-        x: 210
-        y: 88
-        width: 19
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 211
+        y: 89
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3668,12 +3668,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_142
       rect:
         serializedVersion: 2
-        x: 231
-        y: 88
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 232
+        y: 89
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3689,12 +3689,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_143
       rect:
         serializedVersion: 2
-        x: 250
-        y: 92
-        width: 9
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 251
+        y: 93
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3710,12 +3710,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_144
       rect:
         serializedVersion: 2
-        x: 259
-        y: 92
-        width: 9
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 93
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3731,12 +3731,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_145
       rect:
         serializedVersion: 2
-        x: 274
-        y: 88
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 275
+        y: 89
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3752,12 +3752,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_146
       rect:
         serializedVersion: 2
-        x: 289
-        y: 88
-        width: 19
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 290
+        y: 89
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3773,12 +3773,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_147
       rect:
         serializedVersion: 2
-        x: 308
-        y: 88
-        width: 25
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 309
+        y: 89
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3794,12 +3794,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_148
       rect:
         serializedVersion: 2
-        x: 185
-        y: 56
-        width: 18
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 186
+        y: 57
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3815,12 +3815,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_149
       rect:
         serializedVersion: 2
-        x: 187
-        y: 38
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 205
+        y: 57
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3836,12 +3836,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_150
       rect:
         serializedVersion: 2
-        x: 204
-        y: 56
+        x: 222
+        y: 57
         width: 17
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3857,12 +3857,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_151
       rect:
         serializedVersion: 2
-        x: 221
-        y: 56
-        width: 19
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 242
+        y: 57
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3878,12 +3878,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_152
       rect:
         serializedVersion: 2
-        x: 241
-        y: 56
-        width: 18
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 57
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3899,12 +3899,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_153
       rect:
         serializedVersion: 2
-        x: 259
-        y: 56
-        width: 18
+        x: 279
+        y: 57
+        width: 17
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3920,12 +3920,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_154
       rect:
         serializedVersion: 2
-        x: 278
-        y: 56
-        width: 19
+        x: 298
+        y: 57
+        width: 15
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3941,12 +3941,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_155
       rect:
         serializedVersion: 2
-        x: 297
-        y: 56
-        width: 17
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 316
+        y: 57
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3962,12 +3962,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_156
       rect:
         serializedVersion: 2
-        x: 313
-        y: 38
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 170
+        y: 39
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3983,12 +3983,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_157
       rect:
         serializedVersion: 2
-        x: 315
-        y: 56
-        width: 18
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 188
+        y: 39
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4004,12 +4004,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_158
       rect:
         serializedVersion: 2
-        x: 169
-        y: 38
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 206
+        y: 39
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4025,12 +4025,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_159
       rect:
         serializedVersion: 2
-        x: 205
-        y: 38
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 224
+        y: 39
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4046,12 +4046,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_160
       rect:
         serializedVersion: 2
-        x: 223
-        y: 38
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 242
+        y: 39
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4067,12 +4067,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_161
       rect:
         serializedVersion: 2
-        x: 240
-        y: 20
-        width: 19
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 39
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4088,12 +4088,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_162
       rect:
         serializedVersion: 2
-        x: 241
-        y: 38
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 39
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4109,12 +4109,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_163
       rect:
         serializedVersion: 2
-        x: 259
-        y: 38
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 296
+        y: 39
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4130,12 +4130,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_164
       rect:
         serializedVersion: 2
-        x: 259
-        y: 20
-        width: 19
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 314
+        y: 39
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4151,12 +4151,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_165
       rect:
         serializedVersion: 2
-        x: 277
-        y: 38
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 332
+        y: 39
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4172,12 +4172,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_166
       rect:
         serializedVersion: 2
-        x: 295
-        y: 38
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 207
+        y: 21
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4193,12 +4193,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_167
       rect:
         serializedVersion: 2
-        x: 331
-        y: 38
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 241
+        y: 21
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4214,12 +4214,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_168
       rect:
         serializedVersion: 2
-        x: 206
-        y: 20
-        width: 24
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 21
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4235,12 +4235,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_169
       rect:
         serializedVersion: 2
-        x: 288
-        y: 20
-        width: 24
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 289
+        y: 21
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4256,12 +4256,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_170
       rect:
         serializedVersion: 2
-        x: 170
-        y: 1
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 171
+        y: 2
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4277,12 +4277,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_171
       rect:
         serializedVersion: 2
-        x: 201
-        y: 1
-        width: 23
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 202
+        y: 2
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4298,12 +4298,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_172
       rect:
         serializedVersion: 2
-        x: 234
-        y: 1
-        width: 25
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 235
+        y: 2
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4319,12 +4319,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_173
       rect:
         serializedVersion: 2
-        x: 259
-        y: 1
-        width: 25
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 2
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4340,12 +4340,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_174
       rect:
         serializedVersion: 2
-        x: 294
-        y: 1
-        width: 23
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 295
+        y: 2
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4361,12 +4361,12 @@ TextureImporter:
       name: Arcade - Ghosts n Goblins - Enemies_175
       rect:
         serializedVersion: 2
-        x: 328
-        y: 1
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 329
+        y: 2
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4381,7 +4381,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0af03162e7e989047b32903bb7970a0d
     internalID: 0
     vertices: []
     indices: 

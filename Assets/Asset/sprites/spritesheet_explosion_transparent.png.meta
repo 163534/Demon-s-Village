@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 2afc5f3dedc4f0b4eb0fc904d7f89bb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 920500315023201281
+    second: spritesheet_explosion_transparent_0
+  - first:
+      213: 2841370329704258989
+    second: spritesheet_explosion_transparent_1
+  - first:
+      213: 3610060713880390552
+    second: spritesheet_explosion_transparent_2
+  - first:
+      213: -5934860661212594697
+    second: spritesheet_explosion_transparent_3
+  - first:
+      213: -5444834399465927124
+    second: spritesheet_explosion_transparent_4
+  - first:
+      213: -7039304637983595163
+    second: spritesheet_explosion_transparent_5
+  - first:
+      213: 5001906826540780830
+    second: spritesheet_explosion_transparent_6
+  - first:
+      213: 4507768915227416077
+    second: spritesheet_explosion_transparent_7
+  - first:
+      213: 4765444735816035229
+    second: spritesheet_explosion_transparent_8
+  - first:
+      213: -2331608618230108985
+    second: spritesheet_explosion_transparent_9
+  - first:
+      213: 6994698164471448252
+    second: spritesheet_explosion_transparent_10
+  - first:
+      213: 3024574565555000075
+    second: spritesheet_explosion_transparent_11
+  - first:
+      213: -1629025460195929021
+    second: spritesheet_explosion_transparent_12
+  - first:
+      213: -317478698214910065
+    second: spritesheet_explosion_transparent_13
+  - first:
+      213: -6766299249415971376
+    second: spritesheet_explosion_transparent_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boom2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d794d82646cc00800000000000000
+      internalID: 920500315023201281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boom1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5656a334abd5f4e90800000000000000
+      internalID: -7039304637983595163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boom5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b035690ea8279f920800000000000000
+      internalID: 3024574565555000075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boom3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244c5ddf1c7c5c542a3698c68441f1df
+      internalID: 652287505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boom4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5411fa9042a49234d83bbdb45dc9ad04
+      internalID: -575745751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boom6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 7
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e04665464955a44935351e923f3437
+      internalID: -252188759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9e14b849090bf9d4d99112b0a95fe785
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boom1: -7039304637983595163
+      Boom2: 920500315023201281
+      Boom3: 5001906826540780830
+      Boom4: -2331608618230108985
+      Boom5: 3024574565555000075
+      Boom6: 2841370329704258989
+      spritesheet_explosion_transparent_10: 6994698164471448252
+      spritesheet_explosion_transparent_12: -1629025460195929021
+      spritesheet_explosion_transparent_13: -317478698214910065
+      spritesheet_explosion_transparent_14: -6766299249415971376
+      spritesheet_explosion_transparent_2: 3610060713880390552
+      spritesheet_explosion_transparent_3: -5934860661212594697
+      spritesheet_explosion_transparent_4: -5444834399465927124
+      spritesheet_explosion_transparent_7: 4507768915227416077
+      spritesheet_explosion_transparent_8: 4765444735816035229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
