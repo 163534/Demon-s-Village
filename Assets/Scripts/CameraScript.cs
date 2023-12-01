@@ -23,7 +23,7 @@ public class CameraScript : MonoBehaviour
     }
     private void Update()
     {
-        Vector3 pos = new Vector3(Mathf.Clamp(followObject.position.x, -15.9f, 15.9f), transform.position.y, transform.position.z);
+        Vector3 pos = new Vector3(Mathf.Clamp(followObject.position.x, -15.75f, 15.75f), transform.position.y, transform.position.z);
         transform.position = pos;
 
         timer += Time.deltaTime;
