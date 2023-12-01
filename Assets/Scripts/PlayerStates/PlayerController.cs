@@ -34,6 +34,7 @@ public class PlayerController : MonoBehaviour
     {
         Movement();
         Animations();
+        print(moveRight);
     }
     
     public void PointerDownRight()
@@ -85,14 +86,25 @@ public class PlayerController : MonoBehaviour
     void Animations()
     {
         
-        if(rb.velocity.x != 0)
+        
+
+        // check for idle
+
+        if( moveLeft == false && moveRight == false )
+        {
+            rb.velocity = new Vector2(rb.velocity.x * 0.8f, rb.velocity.y );
+
+            if( rb.velocity.x >- 0.2f && rb.velocity.x < 0.2f )
+            {
+                rb.velocity = new Vector2(0, rb.velocity.y);
+                ChangeAnim("PlayerIdleAnimation");
+            }
+        }
+        else
         {
             ChangeAnim("PlayerRunAnimation");
         }
-        else if(rb.velocity.x == 0 && rb.velocity.y == 0)
-        {
-            ChangeAnim("PlayerIdleAnimation");
-        }
+
     }
     public void ChangeAnim(string newState)
     {
