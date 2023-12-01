@@ -29,9 +29,10 @@ public class PlayerController : MonoBehaviour
     {
         rb.velocity = new Vector2(rb.velocity.x, jumpForce);
     }
-    public void Movement()
+    public void MovementRight()
     {
         rb.velocity = new Vector2(1 * speed, rb.velocity.y);
     }
+
     
 }
