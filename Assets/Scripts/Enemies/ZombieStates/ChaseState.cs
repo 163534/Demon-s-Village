@@ -18,7 +18,7 @@ public class ChaseState : IState
         timerLimit = Random.Range(6f, 10f);
         select = 0;
         zs.ChangeAnim("ChaseAnimation");
-        Debug.Log("Entered Chase State");
+        //Debug.Log("Entered Chase State");
         if (zs.transform.position.x > zs.playerPos.transform.position.x)
         {
             dirCheck = 1;
@@ -64,7 +64,7 @@ public class ChaseState : IState
         {
             select = 1;
         }
-        Debug.Log(timer);
+        //Debug.Log(timer);
 
         if (dirCheck == 1)
         {
@@ -83,7 +83,7 @@ public class ChaseState : IState
     void Despawn()
     {
         
-            Debug.Log("Death");
+            //Debug.Log("Death");
 
             zs.rb.velocity = new Vector2(0f, zs.rb.velocity.y);
             zs.ChangeAnim("DespawnAnimation");

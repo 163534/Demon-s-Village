@@ -40,7 +40,7 @@ public class ZombieScript : MonoBehaviour
         {
             currentState.UpdateState();
         }
-        Debug.Log(currentState);
+        //Debug.Log(currentState);
     }
     private void FixedUpdate()
     {
@@ -52,9 +52,11 @@ public class ZombieScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        if(col.gameObject.layer == 7)
+        if(col.gameObject.layer == 8)
         {
-
+            Debug.Log("Hit. Enemy.");
+            ChangeAnim("DeathAnimation");
+            rb.constraints = RigidbodyConstraints2D.FreezePositionX;
         }
     }
     public void ChangeState(IState newState)
@@ -82,6 +84,10 @@ public class ZombieScript : MonoBehaviour
     public void Death()
     {
         Destroy(gameObject);
+    }
+    public void Hit()
+    {
+        ChangeAnim("DeathAniamtion");
     }
 
 }

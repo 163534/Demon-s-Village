@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class playerProjectile : MonoBehaviour
 {
-    PlayerController pc;
+    PlayerStateMachine pc;
     Rigidbody2D rb;
     SpriteRenderer sr;
     bool movingRight;
@@ -14,7 +14,7 @@ public class playerProjectile : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        pc = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
+        pc = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerStateMachine>();
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         timer = 0;
@@ -42,6 +42,13 @@ public class playerProjectile : MonoBehaviour
         if(timer >= timerDelay)
         {
             Destroy(gameObject);
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if(col.gameObject.layer == 3)
+        {
+            Destroy(gameObject);    
         }
     }
 }
