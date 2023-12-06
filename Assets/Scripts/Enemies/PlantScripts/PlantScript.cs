@@ -9,6 +9,7 @@ public class PlantScript : MonoBehaviour
     public Transform bulletSpawnPos;
     Animator anim;
     float playerDist;
+    public float detectDis;
     bool shooting;
     float timer;
     public float timerLimit;
@@ -25,23 +26,22 @@ public class PlantScript : MonoBehaviour
     {
         playerDist = Vector2.Distance(gameObject.transform.position, player.transform.position);
         timer += Time.deltaTime;
-        Debug.Log("Shooting = " + shooting);
+        //Debug.Log("Shooting = " + shooting);
 
-        if(playerDist <= 2.16f)
+        if(playerDist <= detectDis)
         {
-            
-            if (timer >= timerLimit)
-            {
-                Shoot();
-                timer = 0;
-            }
-
+            ChangeAnim("PlantAttackAnimation");
         }
         else
         {
+            ChangeAnim("PlantIdleAnimation");
             return;
         }
         
+    }
+    public void Death()
+    {
+        Destroy(gameObject);
     }
     public void Shoot()
     {
@@ -59,7 +59,7 @@ public class PlantScript : MonoBehaviour
     {
         if (col.gameObject.layer == 8)
         {
-            ChangeAnim("RavenDeathAnimation");
+            ChangeAnim("PlantDeathAnimation");
             //Destroy
         }
     }

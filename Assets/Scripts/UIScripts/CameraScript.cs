@@ -7,11 +7,7 @@ public class CameraScript : MonoBehaviour
     public Transform followObject;
     public GameObject enemy;
     Camera cam;
-    
-    float spawnX;
-    float spawnY;
-    float spawnX2;
-    float spawnY2;
+
     float timer;
     public float timerDelay;
     public float timerDelay2;

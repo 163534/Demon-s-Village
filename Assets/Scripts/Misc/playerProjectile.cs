@@ -11,6 +11,8 @@ public class playerProjectile : MonoBehaviour
     bool movingLeft;
     float timer;
     float timerDelay;
+    [SerializeField]
+    float speed;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,14 +30,14 @@ public class playerProjectile : MonoBehaviour
         if(pc.dir == 1 && !movingLeft)
         {
             sr.flipX = false;
-            rb.velocity = new Vector2(1 * 10, rb.velocity.y);
+            rb.velocity = new Vector2(1 * speed, rb.velocity.y);
             movingRight = true;
             movingLeft = false;
         }
         else if(pc.dir == -1 && !movingRight)
         {
             sr.flipX = true;
-            rb.velocity = new Vector2(-1 * 10, rb.velocity.y);
+            rb.velocity = new Vector2(-1 * speed, rb.velocity.y);
             movingRight = false;
             movingLeft = true;
         }

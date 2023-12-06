@@ -11,7 +11,12 @@ public class PlayerIdleState : PState
     {
         psm = stateMachine;
         rb = psm.rb;
-        psm.ChangeAnim("PlayerIdleAnimation");
+        if (!psm.jumping)
+        {
+            psm.ChangeAnim("PlayerIdleAnimation");
+        }
+
+
     }
     public void UpdateState()
     {

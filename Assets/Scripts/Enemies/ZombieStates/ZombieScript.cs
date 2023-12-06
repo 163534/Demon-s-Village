@@ -54,7 +54,7 @@ public class ZombieScript : MonoBehaviour
     {
         if(col.gameObject.layer == 8)
         {
-            Debug.Log("Hit. Enemy.");
+            //Debug.Log("Hit. Enemy.");
             ChangeAnim("DeathAnimation");
             rb.constraints = RigidbodyConstraints2D.FreezePositionX;
         }

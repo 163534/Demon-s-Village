@@ -10,7 +10,7 @@ public class SpawnState : IState
     {
         zs = stateMachine;
         zs.ChangeAnim("SpawnAnimation");
-        Debug.Log("Entered Spawn State");
+        //Debug.Log("Entered Spawn State");
         if (zs.transform.position.x > zs.playerPos.transform.position.x)
         {
             zs.transform.localScale = new Vector2(1f, zs.transform.localScale.y);
