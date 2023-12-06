@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - Projectile
+  - Ladder
+  - Doors
   layers:
   - Default
   - TransparentFX
@@ -17,10 +19,10 @@ TagManager:
   - Obstacle
   - Projectile
   - EnemyProjectile
-  - 
-  - 
-  - 
-  - 
+  - ClimbingLayer
+  - Ladder
+  - Bottom
+  - Dead
   - 
   - 
   - 
